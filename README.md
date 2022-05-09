@@ -9,6 +9,8 @@
 https://faqaccordian.netlify.app/
 
 - NFT Preview Card
+https://nft-preview-c.netlify.app/
+
 
 
 
@@ -20,6 +22,7 @@ https://faqaccordian.netlify.app/
 ### Advanced
 
 ### Guru
+
 
 
 
